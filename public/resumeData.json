@@ -1,0 +1,196 @@
+{
+    "main": {
+      "name": "Santiago Hernán Leston",
+      "description": "WEB DEVELOPMENT AND DESIGN PORTFOLIO",
+      "image": "logo_white_shadow.png",
+      "bio": "Welcome to Santiago Hernán Leston's portfolio. I specialize in web development and design, offering personalized solutions to drive your online success. With innovative approaches and a collaborative culture, I deliver tailored web solutions to propel your business towards online success.",
+      "contactmessage": "Feel free to get in touch with me to discuss your projects and ideas.",
+      "email": "leston.s.h@gmail.com",
+      "phone": "+54 9 116-683-7387",
+      "github": "https://github.com/s00ar",
+      "address": {
+        "street": "Not Provided",
+        "city": "Not Provided",
+        "state": "Not Provided",
+        "zip": "Not Provided"
+      },
+      "website": "http://www.linkedin.com/in/santiago-leston/",
+      "resumedownload": "http://www.linkedin.com/in/santiago-leston/",
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/santiago-leston/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/s00ar",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "A summary of Santiago Hernán Leston's skills and expertise.",
+      "education": [
+        {
+          "school": "National University of Córdoba",
+          "degree": "Full Stack Web Development Bootcamp",
+          "graduated": "Certificated",
+          "description": "Theoretical-practical approach to web development covering ReactJS, Javascript, Laravel, PHP, HTML5, CSS3, MySQL, Bootstrap, Jenkins, automation, and DevOps."
+        },
+        {
+          "school": "National Technological University",
+          "degree": "Introductory Course in C# and SQL Development",
+          "graduated": "Officially Certified",
+          "description": "Comprehensive course covering algorithms, flowcharts, pseudocode, control structures, arrays, object-oriented programming, graphical interface design, databases, SQL, and application-database connections."
+        },
+        {
+          "school": "Open Webminar, Dev Code, Google, Free Code Camp, and Escuela IT",
+          "degree": "Various Certifications",
+          "graduated": "Certified",
+          "description": "Training in initial and intermediate Javascript, HTML5, CSS3, responsive design, fundamentals of digital marketing, and other related areas."
+        },
+        {
+          "school": "Mariano Moreno Institute",
+          "degree": "High School Diploma"
+        },
+        {
+          "school": "SCRUM Study",
+          "degree": "SCRUM Fundamentals Certified",
+          "graduated": "Certified",
+          "description": "Certification demonstrating knowledge of Agile and SCRUM methodologies."
+        }
+      ],
+      "work": [
+        {
+          "company": "Pixvo.tech",
+          "title": "Developer, Web Designer, and System Administrator",
+          "years": "November 2020 - February 2022",
+          "description": "Worked on Wordpress and ReactJS/Native projects."
+        },
+        {
+          "company": "Metamorfosis 360",
+          "title": "ReactJS Developer, Wordpress Developer, Woocommerce Expert, PHP Developer, React Native Developer, Sysadmin, Frontend Developer & Google Ads Account Strategist",
+          "years": "February 2022 - Present",
+          "description": "Engaged in a variety of tasks including web development, system administration, and Google Ads strategy."
+        },
+        {
+          "company": "Hedwig Kiesler Software S.A.S",
+          "title": "Short-Term Instructor",
+          "years": "August 2022 - November 2022",
+          "description": "Taught frontend development bootcamp focusing on ReactJS and developed websites with Wordpress."
+        },
+        {
+          "company": "Freelance",
+          "title": "Web Developer / Designer",
+          "years": "March 2017 - September 2020",
+          "description": "Specialized in web design and development, SEO, system administration, and Wordpress projects."
+        }
+      ],
+      "skills": [
+        {
+          "name": "ReactJS",
+          "level": "90%"
+        },
+        {
+          "name": "React Testing Library",
+          "level": "80%"
+        },
+        {
+          "name": "NodeJS",
+          "level": "75%"
+        },
+        {
+          "name": "Wordpress",
+          "level": "95%"
+        },
+        {
+          "name": "PHP",
+          "level": "85%"
+        },
+        {
+          "name": "Laravel",
+          "level": "80%"
+        },
+        {
+          "name": "Javascript",
+          "level": "90%"
+        },
+        {
+          "name": "Responsive Web Design",
+          "level": "90%"
+        },
+        {
+          "name": "Scrum/Agile Methodologies",
+          "level": "85%"
+        },
+        {
+          "name": "C# and SQL",
+          "level": "80%"
+        },
+        {
+          "name": "Web Design",
+          "level": "90%"
+        },
+        {
+          "name": "HTML5 and CSS3",
+          "level": "95%"
+        },
+        {
+          "name": "Advanced English",
+          "level": "90%"
+        },
+        {
+          "name": "Git / Github",
+          "level": "85%"
+        },
+        {
+          "name": "Google Ads and Digital Marketing",
+          "level": "85%"
+        },
+        {
+          "name": "Database Management: SQL and MySQL",
+          "level": "85%"
+        },
+        {
+          "name": "Mobile Application Development: Android and iOS",
+          "level": "80%"
+        },
+        {
+          "name": "Graphic Design Experience: Adobe Photoshop, Illustrator, Canva",
+          "level": "85%"
+        },
+        {
+          "name": "Website Optimization: SEO, UX/UI",
+          "level": "85%"
+        },
+        {
+          "name": "Knowledge in E-commerce: WooCommerce",
+          "level": "90%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Pixvo.tech",
+          "category": "Website Development and Design",
+          "image": "project1_image.jpg",
+          "url": "http://www.pixvo.tech"
+        },
+        {
+          "title": "Metamorfosis 360",
+          "category": "Web Development and Google Ads Strategy",
+          "image": "project2_image.jpg",
+          "url": "http://www.metamorfosis360.com"
+        },
+        {
+          "title": "Freelance Projects",
+          "category": "Various Web Development Projects",
+          "image": "project3_image.jpg",
+          "url": "http://www.s00ar.com/projects"
+        }
+      ]
+    }
+  }
+  
